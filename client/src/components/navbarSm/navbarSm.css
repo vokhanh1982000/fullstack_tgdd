@@ -1,0 +1,16 @@
+.navbarSm {
+    background-color: yellow;
+}
+.container {
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.type {
+    display: flex;
+}
+a {
+    text-decoration: none;
+    color: black;
+}

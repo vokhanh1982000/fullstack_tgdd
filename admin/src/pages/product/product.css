@@ -1,0 +1,39 @@
+.productImg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+.productImage {
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+    margin-right: 10px;
+}
+.actionEdit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.buttonCreate {
+    background-color: green;
+    color: #fff;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 5px;
+}
+.buttonCreate:hover {
+    color: #fff;
+}
+.iconEdit {
+    cursor: pointer;
+}
+.iconDelete {
+    cursor: pointer;
+}

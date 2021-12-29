@@ -1,0 +1,42 @@
+.intro {
+    display: flex;
+    margin: 2%;
+}
+.imgItem {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.info {
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    align-items: center;
+}
+.imgProduct {
+    flex: 5;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.price {
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.total {
+    color: red;
+    font-variant-numeric: normal;
+}
+.moreInfo {
+    flex: 5;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.range {
+    width: 50%;
+    color: blue;
+}

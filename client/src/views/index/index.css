@@ -1,0 +1,47 @@
+.ente {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.caro {
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; */
+    width: 60%;
+    display: block;
+    margin: 2% auto;
+}
+/* #sale {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: yellow;
+    color: black;
+    border-radius: 5px;
+    justify-content: space-between;
+    height: auto;
+} */
+.container-lg-product {
+    background-color: yellow;
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2%;
+    padding-left: 1%;
+    padding-right: 1%;
+    border-radius: 5px;
+}
+.title-product {
+    padding-top: 2%;
+    padding-left: 7%;
+    font-style: 16px;
+}
+.listProduct {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
